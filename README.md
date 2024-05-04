@@ -31,5 +31,7 @@ The booking analysis dashboard provides insights into the booking behaviour of g
 #### Filtering Action on Dashboards:
 On clicking the filter button on the top right corner of every dashboard, the visuals on the page can be filtered by month, city, property, room class, booking status and booking platform. All the filters applied can be cleared by clicking the clear button.
 
+<img width="589" alt="filtering-action" src="https://github.com/MarzukaaZaki/hospitality-revenue-analytics/assets/87608582/11a5ea38-5996-4403-97da-69d1f228265d">
+
 ## Tools Used
 - Power BI
