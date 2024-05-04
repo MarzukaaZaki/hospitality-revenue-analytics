@@ -15,13 +15,18 @@ Three dashboards were developed to explore the feasibility of leveraging histori
 
 ### Overall Analysis Dashboard
 The overall analysis dashboard presents key performance indicators (KPIs) such as revenue, average guest rating, occupancy rate, total bookings, and cancellations. This offers a quick snapshot of overall business performance.
+
 <img width="577" alt="overall-analysis" src="https://github.com/MarzukaaZaki/hospitality-revenue-analytics/assets/87608582/c0ce91dc-b3ae-4927-ac9b-5fcbde41f3a3">
 
 ### Revenue Analysis Dashboard
 The revenue analysis dashboard provides a framework for analyzing revenue across various properties, room classes, and hotel categories. This will help stakeholders to identify potential areas for revenue optimization.
 
+<img width="572" alt="revenue-analysis" src="https://github.com/MarzukaaZaki/hospitality-revenue-analytics/assets/87608582/b76c7c4e-6108-49be-b996-ce7e294d2dd6">
+
 ### Booking Analysis Dashboard
 The booking analysis dashboard provides insights into the booking behaviour of guests by analyzing the booking, occupancy and cancellation trends over weeks and months.  These insights can inform strategies to improve guest acquisition.
+
+<img width="575" alt="booking-analysis" src="https://github.com/MarzukaaZaki/hospitality-revenue-analytics/assets/87608582/653dc87a-9a52-4cb8-bbfd-39538abbaa37">
 
 ## Tools Used
 - Power BI
