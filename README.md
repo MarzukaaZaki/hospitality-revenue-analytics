@@ -9,7 +9,18 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
 ## Project Details
-This project aimed to utilize historical data to gain valuable insights and inform strategic decision-making. The main stakeholders in this project are the managing director, who initiated the project and the revenue management team, who were tasked with hiring 3rd party service provider and utilizing the insights to improve revenue. 
+This project aimed to utilize historical data to gain valuable insights and inform strategic decision-making. The main stakeholders in this project are the managing director, who initiated the project and the revenue management team, who were tasked with hiring 3rd party service provider and utilizing the insights to improve revenue.
+
+Three dashboards were developed to explore the feasibility of leveraging historical data to gain valuable insights and inform strategic actions.
+
+### Overall Analysis Dashboard
+The overall analysis dashboard presents key performance indicators (KPIs) such as revenue, average guest rating, occupancy rate, total bookings, and cancellations. This offers a quick snapshot of overall business performance.
+
+### Revenue Analysis Dashboard
+The revenue analysis dashboard provides a framework for analyzing revenue across various properties, room classes, and hotel categories. This will help stakeholders to identify potential areas for revenue optimization.
+
+### Booking Analysis Dashboard
+The booking analysis dashboard provides insights into the booking behaviour of guests by analyzing the booking, occupancy and cancellation trends over weeks and months.  These insights can inform strategies to improve guest acquisition.
 
 ## Tools Used
 - Power BI
