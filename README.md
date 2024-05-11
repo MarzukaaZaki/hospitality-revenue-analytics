@@ -21,7 +21,7 @@ The overall analysis dashboard presents key performance indicators (KPIs) such a
 ### Revenue Analysis Dashboard
 The revenue analysis dashboard provides a framework for analyzing revenue across various properties, room classes, and hotel categories. This will help stakeholders to identify potential areas for revenue optimization.
 
-<img width="572" alt="revenue-analysis" src="https://github.com/MarzukaaZaki/hospitality-revenue-analytics/assets/87608582/b76c7c4e-6108-49be-b996-ce7e294d2dd6">
+<img width="604" alt="revenue-analysis" src="https://github.com/MarzukaaZaki/hospitality-revenue-analytics/assets/87608582/22064746-ade1-44df-8bcf-6026e2b19656">
 
 ### Booking Analysis Dashboard
 The booking analysis dashboard provides insights into the booking behaviour of guests by analyzing the booking, occupancy and cancellation trends over weeks and months.  These insights can inform strategies to improve guest acquisition.
